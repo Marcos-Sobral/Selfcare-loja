@@ -1,0 +1,25 @@
+/* navbar*/
+#nav{
+    display: flex;
+    background-color: white;
+    width: 100%;  
+    justify-content: space-between;
+    padding: 2% 5%;
+}
+
+#nav #nav-title-icon{
+    color:  #161616;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#nav #nav-menu-li{
+    list-style: none;
+    color: #5CA720;
+
+}
+
+#nav #nav-menu-ul{
+    display: flex;
+    gap: 3em;
+}
